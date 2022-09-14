@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(247, 244, 222);
+}
+
+h1 {
+    color: rgb(214, 194, 82);
+    font-weight: bold;
+    font-size: 170%;
+}
+
+h2 {
+    color: rgb(214, 194, 82);
+    font-weight: bold;
+    font-size: 140%;
+}
+
+nav {
+    background-color: rgb(228, 202, 59);
+    color: rgb(214, 194, 82);
+}
+
+p {
+    text-align: justify;
+}
