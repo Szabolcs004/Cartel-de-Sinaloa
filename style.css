@@ -22,3 +22,7 @@ nav {
 p {
     text-align: justify;
 }
+
+.row {
+    margin: 15px;
+}
